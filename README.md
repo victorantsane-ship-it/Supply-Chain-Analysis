@@ -25,9 +25,10 @@ DAX: Developed calculated measures (like Total Promoted Sales) using the CALCULA
 
 Business Impact (Focus on Results)
 This dashboard provides executive-level actionable intelligence by:
+
 Quantifying Risk: Clearly identifying the top categories driving Lost Revenue due to Stockouts. (Action: Revisit safety stock levels for Health & Beauty and Frozen).
 
 Highlighting Waste Cost: Pinpointing where the highest value of Wastage occurs (e.g., Frozen and Health & Beauty), directing efforts for operational efficiency.
 
-Measuring ROI: Providing the Strike Rate/Sell Through Efficiency KPI alongside the $R 11.26$M Promo Uplift to evaluate marketing spend.
+Measuring ROI: Providing the Strike Rate/Sell Through Efficiency KPI alongside the Promo Uplift to evaluate marketing spend.
 
